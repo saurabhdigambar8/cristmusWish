@@ -7,7 +7,7 @@ let days = document.querySelector('.days .number'),
 //1000 milliseconds = 1 second
 //Christmas Day
 
-countDownDate = new Date("Dec 24, 2022 23:59:59").getTime();
+countDownDate = new Date("Dec 24, 2023 23:59:59").getTime();
 
 let counter = setInterval(() => {
     //Get Date Now
